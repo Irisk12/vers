@@ -1,0 +1,7 @@
+"proof": {
+			"jws": "eyJhbGciOiJFZERTQSIsImNyaXQiOlsiYjY0Il0sImI2NCI6ZmFsc2V9..m2IwJC0i3AckyH1XMxXTs4NjEU9zJkwBui65jtOWj6g-lvE9wQzcw2VFuIfdWefj_9vS2WSDpwPA6diwUyWcBw",
+			"type": "Ed25519Signature2018",
+			"created": "2023-08-08T04:58:22.361Z",
+			"proofPurpose": "assertionMethod",
+			"verificationMethod": "did:key:z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC#z6MkghvGHLobLEdj1bgRLhS4LPGJAvbMA1tn2zcRyqmYU5LC"
+		}
